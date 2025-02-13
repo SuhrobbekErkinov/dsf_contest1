@@ -37,7 +37,7 @@ if __name__ == "__main__":
         num=4,
         pi=3.14,
         text="Hello",
-        is_active= False,
+        is_active=False,
         items=[1, 2, 3],
         dict={"a": 1, "b": 2},
         unknown=None
